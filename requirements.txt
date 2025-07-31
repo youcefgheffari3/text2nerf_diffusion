@@ -1,0 +1,10 @@
+torch>=2.0.0
+diffusers>=0.21.0
+transformers
+accelerate
+xformers          # Optional for faster Stable Diffusion
+scipy
+numpy
+matplotlib
+imageio
+plyfile

@@ -1,0 +1,7 @@
+{
+  "prompt": "a futuristic motorcycle in the desert",
+  "guidance_scale": 100.0,
+  "camera_radius": 2.2,
+  "train_steps": 1000,
+  "output_dir": "outputs/moto_desert"
+}
