@@ -23,20 +23,14 @@
 ## 📁 Project Structure
 
 ```
-text-to-3d-diffusion-nerf/
+text2nerf_diffusion/
 ├── configs/
-├── assets/
-├── scripts/
-│   ├── train_sds.py
-│   ├── render_views.py
-│   └── utils/
-├── pretrained/
-│   ├── stable-diffusion-v1-5/
-│   └── gaussian_splatting_model.pt
-├── outputs/
-│   └── scene_01/
-├── pipeline.png
-└── README.md
+├── models/
+├── utils/
+├── README.md
+├── render.py
+├── requirements.txt
+└── train.py
 ```
 
 ---
